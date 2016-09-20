@@ -1,3 +1,3 @@
 # hello-world
 first repository
-# not a lot to day today ;-)
+# not a lot to say today ;-)
